@@ -1,1 +1,12 @@
-[{"group_id":"advanced","id":"qa_cpanel_liveapi_demonstrator","featuremanager":false,"uri":"index.html","name":"LiveAPI Shell (PHP)","icon":"qa_cpanel_liveapi_demonstrator.png","order":"10","type":"link"}]
+[
+   {
+      "icon" : "qa_cpanel_liveapi_demonstrator.png",
+      "featuremanager" : false,
+      "name" : "LiveAPI Shell (PHP)",
+      "uri" : "qa_cpanel_liveapi_demonstrator/index.html",
+      "group_id" : "advanced",
+      "order" : "10",
+      "id" : "qa_cpanel_liveapi_demonstrator",
+      "type" : "link"
+   }
+]
