@@ -3,7 +3,7 @@
       "icon" : "qa_cpanel_liveapi_demonstrator.png",
       "featuremanager" : false,
       "name" : "LiveAPI Shell (PHP)",
-      "uri" : "qa_cpanel_liveapi_demonstrator/index.html",
+      "uri" : "qa_cpanel_liveapi_demonstrator/index.live.php",
       "group_id" : "advanced",
       "order" : "10",
       "id" : "qa_cpanel_liveapi_demonstrator",
