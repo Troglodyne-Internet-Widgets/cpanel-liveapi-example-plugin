@@ -9,7 +9,7 @@ After install, just go into cPanel >> cPanel LiveAPI Shell under the 'Advanced' 
 
 INSTALL
 -------
-`git clone ssh://git@enterprise.cpanel.net:7999/~thomas.baugh/liveapi-test-plugin.git`
+Clone this repo
 
 `cd /path/to/repo`
 
